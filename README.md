@@ -10,5 +10,5 @@ Steps for the data analysis are as followed:
 4. Model Building - Creating and testing for the best suited models for the datasets. Linear regression model, KNN model, and Ensemble model with voting regressor are being made. Model with the least negative MSE value and the highest R-squared error score is being picked.
 5. Model Evaluation - Using the best suited models to create predictions.
 
-The CSV files containing the datasets are in the datasets.zip. 
+The CSV files containing the datasets are in the datasets.zip in src/ directory. 
 Warning: The .zip file is 67.63 MB. One of the dataset(ADAUSD) contains 5103641 rows of trade details from 2021-07-01 to 2021-08-23 taken from Kraken API.
